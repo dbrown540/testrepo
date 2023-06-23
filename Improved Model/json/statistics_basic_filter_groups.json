@@ -1,0 +1,495 @@
+{
+    "7_REGULATORY_IMPACT_ANALYSIS": {
+        "g1": {
+            "tp": 21,
+            "fp": 4,
+            "fn": 1
+        },
+        "g2": {
+            "tp": 104,
+            "fp": 31,
+            "fn": 6
+        },
+        "g3": {
+            "tp": 447,
+            "fp": 202,
+            "fn": 121
+        }
+    },
+    "2E_VALUATION_OF_SPECIFIC_CODES": {
+        "g1": {
+            "tp": 33,
+            "fp": 1,
+            "fn": 1
+        },
+        "g2": {
+            "tp": 118,
+            "fp": 15,
+            "fn": 16
+        },
+        "g3": {
+            "tp": 1322,
+            "fp": 80,
+            "fn": 112
+        }
+    },
+    "3B_RHCS_AND_FQHCS": {
+        "g1": {
+            "tp": 6,
+            "fp": 21,
+            "fn": 1
+        },
+        "g2": {
+            "tp": 21,
+            "fp": 28,
+            "fn": 8
+        },
+        "g3": {
+            "tp": 54,
+            "fp": 100,
+            "fn": 25
+        }
+    },
+    "2I_NON_F2F_THERAPY_SERVICES": {
+        "g1": {
+            "tp": 11,
+            "fp": 0,
+            "fn": 3
+        },
+        "g2": {
+            "tp": 30,
+            "fp": 4,
+            "fn": 2
+        },
+        "g3": {
+            "tp": 163,
+            "fp": 13,
+            "fn": 47
+        }
+    },
+    "2D_TELEHEALTH_SERVICES": {
+        "g1": {
+            "tp": 28,
+            "fp": 4,
+            "fn": 3
+        },
+        "g2": {
+            "tp": 133,
+            "fp": 13,
+            "fn": 12
+        },
+        "g3": {
+            "tp": 365,
+            "fp": 75,
+            "fn": 101
+        }
+    },
+    "2F_E&M_VISITS": {
+        "g1": {
+            "tp": 16,
+            "fp": 0,
+            "fn": 2
+        },
+        "g2": {
+            "tp": 69,
+            "fp": 6,
+            "fn": 12
+        },
+        "g3": {
+            "tp": 81,
+            "fp": 43,
+            "fn": 61
+        }
+    },
+    "2L_DENTAL_PROPOSALS_AND_COMMENT_SOLICITATIONS": {
+        "g1": {
+            "tp": 8,
+            "fp": 1,
+            "fn": 3
+        },
+        "g2": {
+            "tp": 45,
+            "fp": 18,
+            "fn": 8
+        },
+        "g3": {
+            "tp": 165,
+            "fp": 75,
+            "fn": 25
+        }
+    },
+    "3F_OUD_OTP_COVERAGE": {
+        "g1": {
+            "tp": 10,
+            "fp": 5,
+            "fn": 2
+        },
+        "g2": {
+            "tp": 30,
+            "fp": 8,
+            "fn": 7
+        },
+        "g3": {
+            "tp": 59,
+            "fp": 45,
+            "fn": 24
+        }
+    },
+    "2B_DETERMINATION_OF_PRACTICE_EXPENSE_RVUS": {
+        "g1": {
+            "tp": 14,
+            "fp": 0,
+            "fn": 4
+        },
+        "g2": {
+            "tp": 84,
+            "fp": 9,
+            "fn": 9
+        },
+        "g3": {
+            "tp": 63,
+            "fp": 34,
+            "fn": 36
+        }
+    },
+    "2G_GEOGRAPHIC_PRACTICE_COST_INDICES": {
+        "g1": {
+            "tp": 7,
+            "fp": 11,
+            "fn": 2
+        },
+        "g2": {
+            "tp": 25,
+            "fp": 53,
+            "fn": 2
+        },
+        "g3": {
+            "tp": 17,
+            "fp": 47,
+            "fn": 17
+        }
+    },
+    "2H_MALPRACTICE_RVUS": {
+        "g1": {
+            "tp": 2,
+            "fp": 0,
+            "fn": 2
+        },
+        "g2": {
+            "tp": 7,
+            "fp": 1,
+            "fn": 10
+        },
+        "g3": {
+            "tp": 1,
+            "fp": 4,
+            "fn": 7
+        }
+    },
+    "3G_MSSP": {
+        "g1": {
+            "tp": 12,
+            "fp": 5,
+            "fn": 3
+        },
+        "g2": {
+            "tp": 58,
+            "fp": 42,
+            "fn": 14
+        },
+        "g3": {
+            "tp": 172,
+            "fp": 124,
+            "fn": 37
+        }
+    },
+    "3C_CLINICAL_LAB_FEE_SCHEDULE": {
+        "g1": {
+            "tp": 1,
+            "fp": 2,
+            "fn": 3
+        },
+        "g2": {
+            "tp": 11,
+            "fp": 2,
+            "fn": 9
+        },
+        "g3": {
+            "tp": 14,
+            "fp": 8,
+            "fn": 43
+        }
+    },
+    "2K_AUDIOLOGIST_DIAGNOSTIC_TEST": {
+        "g1": {
+            "tp": 4,
+            "fp": 1,
+            "fn": 1
+        },
+        "g2": {
+            "tp": 11,
+            "fp": 0,
+            "fn": 7
+        },
+        "g3": {
+            "tp": 16,
+            "fp": 4,
+            "fn": 15
+        }
+    },
+    "4_QPP": {
+        "g1": {
+            "tp": 21,
+            "fp": 3,
+            "fn": 3
+        },
+        "g2": {
+            "tp": 125,
+            "fp": 18,
+            "fn": 14
+        },
+        "g3": {
+            "tp": 239,
+            "fp": 61,
+            "fn": 69
+        }
+    },
+    "3D_EXPAND_COVERAGE_CRC_SCREENING": {
+        "g1": {
+            "tp": 9,
+            "fp": 0,
+            "fn": 3
+        },
+        "g2": {
+            "tp": 42,
+            "fp": 2,
+            "fn": 2
+        },
+        "g3": {
+            "tp": 40,
+            "fp": 3,
+            "fn": 15
+        }
+    },
+    "2C_POTENTIALLY_MISVALUED_SERVICES": {
+        "g1": {
+            "tp": 3,
+            "fp": 5,
+            "fn": 1
+        },
+        "g2": {
+            "tp": 9,
+            "fp": 13,
+            "fn": 2
+        },
+        "g3": {
+            "tp": 234,
+            "fp": 9,
+            "fn": 12
+        }
+    },
+    "3H_PART_B_PAYMENT_PREVENTIVE_VACCINE": {
+        "g1": {
+            "tp": 5,
+            "fp": 2,
+            "fn": 1
+        },
+        "g2": {
+            "tp": 24,
+            "fp": 21,
+            "fn": 2
+        },
+        "g3": {
+            "tp": 18,
+            "fp": 19,
+            "fn": 17
+        }
+    },
+    "2M_REBASING_AND_REVISING_MEI": {
+        "g1": {
+            "tp": 17,
+            "fp": 1,
+            "fn": 1
+        },
+        "g2": {
+            "tp": 70,
+            "fp": 14,
+            "fn": 6
+        },
+        "g3": {
+            "tp": 44,
+            "fp": 30,
+            "fn": 12
+        }
+    },
+    "3L_E-RX_FOR_CONTROLLED_SUBSTANCES": {
+        "g1": {
+            "tp": 7,
+            "fp": 3,
+            "fn": 0
+        },
+        "g2": {
+            "tp": 18,
+            "fp": 4,
+            "fn": 2
+        },
+        "g3": {
+            "tp": 12,
+            "fp": 6,
+            "fn": 8
+        }
+    },
+    "2J_PAYMENT_FOR_SKIN_SUBSTITUTES": {
+        "g1": {
+            "tp": 5,
+            "fp": 0,
+            "fn": 0
+        },
+        "g2": {
+            "tp": 18,
+            "fp": 9,
+            "fn": 3
+        },
+        "g3": {
+            "tp": 42,
+            "fp": 17,
+            "fn": 12
+        }
+    },
+    "3E_REMOVAL_OF_SELECTED_NCDS": {
+        "g1": {
+            "tp": 0,
+            "fp": 3,
+            "fn": 2
+        },
+        "g2": {
+            "tp": 9,
+            "fp": 8,
+            "fn": 5
+        },
+        "g3": {
+            "tp": 5,
+            "fp": 14,
+            "fn": 12
+        }
+    },
+    "3I_NONEMERGENCY_SRAS": {
+        "g1": {
+            "tp": 1,
+            "fp": 0,
+            "fn": 2
+        },
+        "g2": {
+            "tp": 2,
+            "fp": 1,
+            "fn": 2
+        },
+        "g3": {
+            "tp": 4,
+            "fp": 1,
+            "fn": 5
+        }
+    },
+    "3A_SINGLE-DOSE_REFUNDS_DISCARDS": {
+        "g1": {
+            "tp": 1,
+            "fp": 2,
+            "fn": 1
+        },
+        "g2": {
+            "tp": 34,
+            "fp": 12,
+            "fn": 4
+        },
+        "g3": {
+            "tp": 53,
+            "fp": 29,
+            "fn": 9
+        }
+    },
+    "3J_P&S_ENROLLMENT_AND_DMEPOS_PAYMENT": {
+        "g1": {
+            "tp": 0,
+            "fp": 4,
+            "fn": 0
+        },
+        "g2": {
+            "tp": 6,
+            "fp": 16,
+            "fn": 3
+        },
+        "g3": {
+            "tp": 7,
+            "fp": 33,
+            "fn": 8
+        }
+    },
+    "3N_CODING_WOUND_CARE": {
+        "g1": {
+            "tp": 1,
+            "fp": 4,
+            "fn": 1
+        },
+        "g2": {
+            "tp": 6,
+            "fp": 6,
+            "fn": 1
+        },
+        "g3": {
+            "tp": 8,
+            "fp": 15,
+            "fn": 8
+        }
+    },
+    "3M_MEDICARE_GADCS": {
+        "g1": {
+            "tp": 0,
+            "fp": 1,
+            "fn": 0
+        },
+        "g2": {
+            "tp": 1,
+            "fp": 0,
+            "fn": 1
+        },
+        "g3": {
+            "tp": 3,
+            "fp": 2,
+            "fn": 7
+        }
+    },
+    "3K_MEDICAID_PROVIDER_ENROLLMENT": {
+        "g1": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0
+        },
+        "g2": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 1
+        },
+        "g3": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 3
+        }
+    },
+    "7_TEXT_REGULATIONS_E_PAGES": {
+        "g1": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0
+        },
+        "g2": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0
+        },
+        "g3": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 1
+        }
+    }
+}

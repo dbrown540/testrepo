@@ -1,0 +1,6 @@
+Unique QAed document/topic/subtopic count: 10542
+Predicted document/topic/subtopic count: 9525
+Missing data points count: 6800
+Correct topic/subtopic predictions: 4677
+Correct topic/wrong subtopic predictions: 823
+Incorrectly added topics/subtopics: 1152
